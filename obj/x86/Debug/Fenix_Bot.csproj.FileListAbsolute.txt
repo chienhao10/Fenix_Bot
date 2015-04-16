@@ -1,0 +1,44 @@
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\Fenix_Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\Fenix_Bot.FormMain.resources
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\bin\Debug\Fenix_Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\bin\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\bin\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.FormMain.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot\obj\x86\Debug\Fenix_Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\bin\Debug\Fenix_Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.FormMain.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\bin\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.0.5(beta)\bin\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.exe.config
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.pdb
+D:\Documents\Desktop\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.exe.config
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.exe
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.pdb
+D:\Documents\Desktop\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.exe
+D:\Documents\Desktop\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.pdb
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.FormMain.resources
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+D:\Documents\Desktop\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.exe
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\bin\Debug\Fenix_Bot.pdb
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.FormMain.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache

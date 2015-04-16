@@ -1,0 +1,45 @@
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\RitoBot.Properties.Resources.resources
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\hAutobot.csproj.GenerateResource.Cache
+C:\Users\HAK\Documents\취미개발\volibot-master\src\bin\Debug\hAutobot.exe.config
+C:\Users\HAK\Documents\취미개발\volibot-master\src\bin\Debug\hAutobot.exe
+C:\Users\HAK\Documents\취미개발\volibot-master\src\bin\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\hAutobot.exe
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\hAutobot.csprojResolveAssemblyReference.cache
+C:\Users\HAK\Documents\취미개발\volibot-master\src\obj\x86\Debug\hAutobot.FormMain.resources
+C:\Users\HAK\Documents\GitHub\src\bin\Debug\hAutobot.exe.config
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\hAutobot.exe
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\GitHub\src\bin\Debug\hAutobot.exe
+C:\Users\HAK\Documents\GitHub\src\bin\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\hAutobot.csprojResolveAssemblyReference.cache
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\hAutobot.FormMain.resources
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\RitoBot.Properties.Resources.resources
+C:\Users\HAK\Documents\GitHub\src\obj\x86\Debug\hAutobot.csproj.GenerateResource.Cache
+C:\Users\HAK\Documents\취미개발\src\bin\Debug\hAutobot.exe.config
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\hAutobot.exe
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\취미개발\src\bin\Debug\hAutobot.exe
+C:\Users\HAK\Documents\취미개발\src\bin\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\hAutobot.csprojResolveAssemblyReference.cache
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\hAutobot.FormMain.resources
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\RitoBot.Properties.Resources.resources
+C:\Users\HAK\Documents\취미개발\src\obj\x86\Debug\hAutobot.csproj.GenerateResource.Cache
+C:\Users\HAK\Documents\GitHub\hAutobot\bin\Debug\hAutobot.exe.config
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\hAutobot.exe
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\GitHub\hAutobot\bin\Debug\hAutobot.exe
+C:\Users\HAK\Documents\GitHub\hAutobot\bin\Debug\hAutobot.pdb
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\hAutobot.csprojResolveAssemblyReference.cache
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\hAutobot.FormMain.resources
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\RitoBot.Properties.Resources.resources
+C:\Users\HAK\Documents\GitHub\hAutobot\obj\x86\Debug\hAutobot.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\hAutobot.exe.config
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\hAutobot.exe
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\hAutobot.pdb
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\hAutobot.exe
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\bin\Debug\hAutobot.pdb
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\hAutobot.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\hAutobot.FormMain.resources
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\RitoBot.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\hAutobot-master\obj\x86\Debug\hAutobot.csproj.GenerateResource.Cache
