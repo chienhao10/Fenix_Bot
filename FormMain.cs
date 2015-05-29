@@ -117,7 +117,7 @@ namespace Fenix_Bot
                         File.Delete(@"Config\settings.xml");
                     }
 
-                    string str = "<?xml version= \"1.0\" encoding=\"utf-8\"?>\n<config>\n  <version>5.9.15_05_11_02_41</version>\n  <launcherpath>" + Path2 + "</launcherpath>\n</config>";
+                    string str = "<?xml version= \"1.0\" encoding=\"utf-8\"?>\n<config>\n  <version>5.10.15_05_22_10_52</version>\n  <launcherpath>" + Path2 + "</launcherpath>\n</config>";
                     StringBuilder builder = new StringBuilder();
                     builder.AppendLine(str);
                     using (StreamWriter writer = new StreamWriter(@"Config\settings.xml"))
@@ -374,7 +374,7 @@ namespace Fenix_Bot
                     string path = Path2 + @"Config\\settings.xml";
                     FileInfo fileInfo = new FileInfo(path);
                     fileInfo.Refresh();
-                    string str = "<?xml version= \"1.0\" encoding=\"utf-8\"?>\n<config>\n  <version>5.9.15_05_11_02_41</version>\n  <launcherpath>C:\\Riot Games\\League of Legends\\</launcherpath>\n</config>";
+                    string str = "<?xml version= \"1.0\" encoding=\"utf-8\"?>\n<config>\n  <version>5.10.15_05_22_10_52</version>\n  <launcherpath>C:\\Riot Games\\League of Legends\\</launcherpath>\n</config>";
                     StringBuilder builder = new StringBuilder();
                     builder.AppendLine(str);
                     using (StreamWriter writer = new StreamWriter(Path2 + @"Config\settings.xml"))

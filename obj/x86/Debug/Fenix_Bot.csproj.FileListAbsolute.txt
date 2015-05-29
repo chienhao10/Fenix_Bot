@@ -45,3 +45,9 @@ D:\Documents\Visual Studio 2012\Projects\Fenix_Bot_1.1.0\obj\x86\Debug\Fenix_Bot
 E:\Davide\Documenti\GitHub\Fenix_Bot\bin\Debug\Fenix_Bot.exe.config
 E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.exe
 E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.pdb
+E:\Davide\Documenti\GitHub\Fenix_Bot\bin\Debug\Fenix_Bot.exe
+E:\Davide\Documenti\GitHub\Fenix_Bot\bin\Debug\Fenix_Bot.pdb
+E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.csprojResolveAssemblyReference.cache
+E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.FormMain.resources
+E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.Properties.Resources.resources
+E:\Davide\Documenti\GitHub\Fenix_Bot\obj\x86\Debug\Fenix_Bot.csproj.GenerateResource.Cache
